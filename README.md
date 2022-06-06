@@ -1,4 +1,9 @@
-# Pet-supplies_Fictitious-site
+# Pet-supplies_Fictitious-site（架空のペット用品専門店）
+ ![pet](https://user-images.githubusercontent.com/72646217/172115517-4b150347-60ec-46cf-9ac6-4c54005fc4f7.jpg)
+
+## 作成した目的
+職業訓練学校のカリキュラムの一つにグループ制作があり、その講義で作成した。
+グループ制作は3人/組に分かれ、それぞれクライアント側と制作者側の両方を行い、10日間でクライアント側から依頼されたWebサイト（Topページを含めて6ページ）を制作するというものである。
 
 ## 案件概要
 - 業種：ペット用品店
